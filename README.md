@@ -1,7 +1,6 @@
 # photonmind-PIC
 Accelerate the design of photonic integrated circuits (PICs) with machine learning.
-
-**This repository will eventually be phased out. For the full ANN design platform, go [here](https://github.com/Dusandinho/photonmind)**
+**This repository will eventually be phased out. For the full ANN design platform, go [here](https://github.com/Dusandinho/photonmind).**
 
 ## About
 The PhotonMind platform creates compact, flexible models of photonic devices using numerically solved electromagnetic data and deep artificial neural networks (ANNs). This allows for orders-of-magnitude faster calculations for device-level optimizations and system-level simulations. The PhotonMind-PIC project aims to build a standard library of common photonic devices for open use.
