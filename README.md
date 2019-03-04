@@ -1,5 +1,6 @@
 # photonmind-PIC
 Accelerate the design of photonic integrated circuits (PICs) with machine learning.
+
 **This repository will eventually be phased out. For the full ANN design platform, go [here](https://github.com/Dusandinho/photonmind).**
 
 ## About
